@@ -29,14 +29,14 @@ jobs:
         # copy readme from jupyterlite instance route into content folder
         run: |
           cp README.md content
-          jupyter lite build --contents content --output-dir dist
+          jupyter lite build --contents notebooks --output-dir dist
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
           path: ./dist
 
   deploy:
-    needs: build
+    needs: build 
     if: github.ref == 'refs/heads/main'
     permissions:
       pages: write

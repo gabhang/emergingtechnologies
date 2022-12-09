@@ -1,29 +1,23 @@
-# JupyterLite Demo
+# Emerging Technologies
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
+This repository contains a research project for a final year software development module, Emerging Technologies, in Atlantic Technological University. This module introduces new and emerging technologies in computing for quick adaption. Jupyter notebooks are used to record the research outcome for this assessment within a JupyterLite instance. <br>
 
-JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
+The JupyterLite instance created from this repository can be viewed [here](https://github.com/gabhang/emergingtechnologies/actions/runs/3620001746)
 
-## ✨ Try it in your browser ✨
+# Topics Discussed
 
-➡️ **https://jupyterlite.github.io/demo**
+Several topics are identified and broken down into several notebooks to study and analyse in depth in this research.
 
-![github-pages](https://user-images.githubusercontent.com/591645/120649478-18258400-c47d-11eb-80e5-185e52ff2702.gif)
+## GitHub Pages
+## JupyterLite
+## Computation
+## Fourier Transform
+## Quantum Computing
 
-## Requirements
+# Author
 
-JupyterLite is being tested against modern web browsers:
+[Gabriel Hang](https://github.com/gabhang)
 
-- Firefox 90+
-- Chromium 89+
+# References
 
-## Deploy your JupyterLite website on GitHub Pages
-
-Check out the guide on the JupyterLite documentation: https://jupyterlite.readthedocs.io/en/latest/quickstart/deploy.html
-
-## Further Information and Updates
-
-For more info, keep an eye on the JupyterLite documentation:
-
-- How-to Guides: https://jupyterlite.readthedocs.io/en/latest/howto/index.html
-- Reference: https://jupyterlite.readthedocs.io/en/latest/reference/index.html
+References are included after each corresponding section in both notebooks.
